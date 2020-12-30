@@ -8,4 +8,4 @@ You can view images, add them to locally saved favorites and change the grid siz
 The images are remotely fetched from the picsum api: https://picsum.photos
 
 ## Screenshot
-<img src="https://cdn.seriousmonkey.de/github/sanzaru/ImageGallery/IMG_0125.PNG" width="200">
+<img src="http://cdn.seriousmonkey.de/github/sanzaru/ImageGallery/IMG_0125.PNG" width="200">
