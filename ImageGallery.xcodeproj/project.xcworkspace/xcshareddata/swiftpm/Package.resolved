@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SimpleToast",
+        "repositoryURL": "https://github.com/sanzaru/SimpleToast.git",
+        "state": {
+          "branch": null,
+          "revision": "85d9ef6d77e35ff3756b5cac96c92995545c8d62",
+          "version": "0.0.7"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
