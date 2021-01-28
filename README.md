@@ -10,11 +10,11 @@ The images are remotely fetched from the picsum api: https://picsum.photos
 ## Screenshot
 <table border="0">
   <tr>
-    <td valign="top">
-      <img src="http://cdn.seriousmonkey.de/github/sanzaru/ImageGallery/IMG_0125.PNG" width="200">
+    <td valign="top" width="200">
+      <img src="http://cdn.seriousmonkey.de/github/sanzaru/ImageGallery/IMG_0125.PNG">
     </td>
-    <td valign="top">
-      <img src="http://cdn.seriousmonkey.de/github/sanzaru/ImageGallery/Demo.gif" width="200">
+    <td valign="top" width="200">
+      <img src="http://cdn.seriousmonkey.de/github/sanzaru/ImageGallery/Demo.gif">
     </td>
   </tr>
 </table>
